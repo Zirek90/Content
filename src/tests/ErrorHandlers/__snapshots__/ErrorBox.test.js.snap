@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ErrorBox renders correctly 1`] = `
+<div
+  className="sc-eCApGN sc-jSFkmK cQhqkh"
+>
+  <p>
+    Ops seems like there is some problem. Please reload page
+  </p>
+  <button
+    className="sc-iCoHVE jVmhDW"
+    onClick={[Function]}
+  >
+    Reload page
+  </button>
+</div>
+`;

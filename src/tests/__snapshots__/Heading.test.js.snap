@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HeadingComponent renders correctly 1`] = `
+<div
+  className="sc-gtssRu ezxSyx"
+>
+  <h1
+    className="sc-iCoHVE dNHPew"
+  >
+    Top article title
+  </h1>
+</div>
+`;

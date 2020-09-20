@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MainImageComponent renders correctly 1`] = `
+<figure
+  className="sc-dlnjPT iicaHi"
+>
+  <img
+    alt="Listen your voice"
+    className="sc-iCoHVE dAOolK"
+    src="https://content-eu-4.content-cms.com/859f2008-a40a-4b92-afd0-24bb44d10124/dxresources/0874/0874022e-89fe-448e-af2f-d7a88b7baa04.jpg"
+  />
+  <figcaption>
+    Listen your voice
+  </figcaption>
+</figure>
+`;

@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ErrorHandler renders correctly 1`] = `
+<div
+  className="sc-gKAblj ifuKnE"
+  role="alert"
+>
+  <p>
+    Could not download content
+  </p>
+</div>
+`;

@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DateComponent renders correctly 1`] = `
+<p
+  className="sc-gtssRu kZfLwQ"
+>
+  Sun, 06 Sep 2020 22:00:00 GMT
+</p>
+`;
