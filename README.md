@@ -1,3 +1,5 @@
+0. cd Content
+
 DEVELOMENT:
 1. NPM INSTALL
 2. NPM START
