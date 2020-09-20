@@ -1,14 +1,15 @@
+0. git clone https://github.com/Zirek90/Content.git 
 0. cd Content
 
 DEVELOMENT:
-1. NPM INSTALL
-2. NPM START
+1. npm install
+2. npm start
 
 PROD:
-1. NPM INSTALL
-2. NPM RUN BUILD
-3. SERVE -S BUILD *OR* USE OWN BACKEND
+1. npm install
+2. npm run build
+3. serve -s build *OR* USE OWN BACKEND
 
 
 TESTS:
-1. NPM RUN TEST
+1. npm run build
