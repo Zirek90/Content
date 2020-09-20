@@ -3,6 +3,7 @@
 exports[`ErrorBox renders correctly 1`] = `
 <div
   className="sc-eCApGN sc-jSFkmK cQhqkh"
+  role="alert"
 >
   <p>
     Ops seems like there is some problem. Please reload page
